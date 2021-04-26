@@ -1,1 +1,3 @@
-# p-26
+Teriyaki Chicken Recipe
+
+Made by Yashraj Dixit
